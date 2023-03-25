@@ -2,6 +2,6 @@
 # Grupo 25
 
 ## Miembros:
-# Tomás González - 108193
-# Valentina Moreno de Ruvo - 107948
-# Juan Manuel Pol - 108448
+### Tomás González - 108193
+### Valentina Moreno de Ruvo - 107948
+### Juan Manuel Pol - 108448
